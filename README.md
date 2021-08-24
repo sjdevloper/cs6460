@@ -1,5 +1,7 @@
 # cs6460
 
+## Using AI to Detect and Prevent Bullying on the School Bus
+
 ### With this project, the author worked to create three aspects of content. 
 
 - First, the authors shared some resources on how people have already researched school bullying. 
